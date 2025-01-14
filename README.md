@@ -57,6 +57,7 @@ python Simulado.py
 Estrutura do Projeto
 plaintext
 Copiar código
+
 Desenvolvedor/
 
 ├── Simulado.py           # Script principal que contém a implementação de lógica de negócios
