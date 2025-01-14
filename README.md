@@ -58,9 +58,14 @@ Estrutura do Projeto
 plaintext
 Copiar código
 Desenvolvedor/
-│
+
 ├── Simulado.py           # Script principal que contém a implementação de lógica de negócios
+
 ├── faturamento.xml       # Arquivo XML com dados de faturamento diário
+
 ├── dados.json            # Arquivo JSON com dados de faturamento
+
+
 ├── README.md             # Este arquivo
+
 └── requirements.txt      # Arquivo de dependências (se necessário)
